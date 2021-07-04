@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy
-#Hello I Changed This
 
 
 def f(y,**cte):
